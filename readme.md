@@ -28,7 +28,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/SIgilai5/interview_code_test.git
+   git clone https://github.com/Sigilai5/k_k.git
    ```
 2. Install pandas library
    ```sh
